@@ -8,10 +8,10 @@ Los trabajos antes mencionados fueron realizados por un equipo de 4 personas las
 
 ## Authors
 
--  Moises Jahir González Márquez [@octokatherine](https://www.github.com/octokatherine)
--  Marco Edaurdo Báez Gonzales [@octokatherine](https://www.github.com/octokatherine)
--  Eduardo Ulises Estrada Gonzales [@octokatherine](https://www.github.com/octokatherine)
--  Manuel Fernández Mercado [@octokatherine](https://www.github.com/octokatherine)
+-  Moises Jahir González Márquez [@MoisesJhr](https://www.github.com/MoisesJhr)
+-  Marco Edaurdo Báez Gonzales [@MarcoBaez123](https://www.github.com/MarcoBaez123)
+-  Eduardo Ulises Estrada Gonzales [@U1i535](https://github.com/U1i535)
+-  Manuel Fernández Mercado [@manuelogasxxx](https://github.com/manuelogasxxx)
 
 
 
