@@ -42,3 +42,9 @@ Cada carpeta contiene dos archivos que se mencionan acontinuación:
 ## Notas Aclaratorias
 
 - En la 2da práctica, la idea original era implimentar con compuertas lógicas el comportamiento del chip 7447, el cual puede ser deducido usando mapas de Karnaugh, sin embargo no tuvo el funcionamiento esperado y por eso se optó usar directamente el chip 7447
+
+
+## Próximas actualizaciones
+
+- Integraciones de todas las practicas realizadas.
+- lista de reproducción de Youtube con explicaciones de cada actividad
