@@ -48,4 +48,4 @@ Cada carpeta contiene dos archivos que se mencionan acontinuación:
 
 - Integraciones de todas las practicas realizadas.
 - lista de reproducción de Youtube con explicaciones de cada actividad
--xd
+-xd añadido random
