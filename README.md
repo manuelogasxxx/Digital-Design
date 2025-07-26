@@ -41,7 +41,7 @@ Cada carpeta contiene dos archivos que se mencionan acontinuación:
     Esto es más una decisión de diseño personal, generar una buena estructura de cables ( y a veces colores) es visualmente atractivo y permite depurar fácilmente el circuito.
 ## Notas Aclaratorias
 
-- En la 2da práctica, la idea original era implimentar con compuertas lógicas el comportamiento del chip 7447, el cual puede ser deducido usando mapas de Karnaugh, sin embargo no tuvo el funcionamiento esperado y por eso se optó usar directamente el chip 7447
+- En la 2da práctica, la idea original era implimentar con compuertas lógicas el comportamiento del chip 7447, el cual puede ser deducido usando mapas de Karnaugh, sin embargo no tuvo el funcionamiento esperado y por eso se optó usar directamente el chip 7447. Aunque el tamaño final de la práctica depende de la forma en que se acomoden los circuitos, usuando compuertas lógicas el tamaño haciende a 2 protoboards, sería interesante optar por el uso de multiplexores para reducir el número total de chips en la implementación.
 
 
 ## Próximas actualizaciones
